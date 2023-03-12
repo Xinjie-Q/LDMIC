@@ -14,7 +14,7 @@ Multi-view image compression plays a critical role in 3D-related applications. E
 
 ## Acknowledgement
 
-:heart::heart::heart:Our idea is implemented base on the following projects. We really appreciate their wonderful open-source works!
+:heart::heart::heart:Our idea is implemented based on the following projects. We really appreciate their wonderful open-source works!
 
 - [CompressAI](https://github.com/InterDigitalInc/CompressAI) [[related paper](https://arxiv.org/abs/2011.03029)]
 - [Checkerboard Context Model for Efficient Learned Image Compression](https://github.com/JiangWeibeta/Checkerboard-Context-Model-for-Efficient-Learned-Image-Compression/tree/main) [[related paper](https://arxiv.org/abs/2103.15306v2)]
