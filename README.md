@@ -27,7 +27,7 @@ If any parts of our paper and code help your research, please consider citing us
 @inproceedings{zhang2023ldmic,
   title={LDMIC: Learning-based Distributed Multi-view Image Coding},
   author={Zhang, Xinjie and Shao, Jiawei and Zhang, Jun},
-  booktitle={The Eleventh International Conference on Learning Representations},
+  booktitle={International Conference on Learning Representations},
   year={2023},
 }
 ```
