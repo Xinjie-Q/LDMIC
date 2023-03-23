@@ -4,7 +4,7 @@ The official PyTorch implementation of our **ICLR 2023** paper:
 
 **LDMIC: Learning-based Distributed Multi-view Image Coding**
 
-[Xinjie Zhang](), [Jiawei Shao](https://shaojiawei07.github.io/), [Jun Zhang](https://eejzhang.people.ust.hk/)
+[Xinjie Zhang](https://xinjie-q.github.io/), [Jiawei Shao](https://shaojiawei07.github.io/), [Jun Zhang](https://eejzhang.people.ust.hk/)
 
 [[ICLR Open Review](https://openreview.net/forum?id=ILQVw4cA5F9)] [[ArXiv Preprint](https://arxiv.org/abs/2301.09799)]]
 
